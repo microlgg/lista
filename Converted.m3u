@@ -1,0 +1,421 @@
+#EXTM3U
+#EXTINF:0 tvg-id="LA1.es" group-title="Disponible",LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8, 6, la_1, 1, la_1, 2, tve1, 3, https://rtvelivestream.akamaized.net/la1_dvr.m3u8, 6, http://www.rtve.es/directo/la-1/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="LA2.es" group-title="Disponible",LA 2
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8, 6, la_2, 1, la_2, 2, la2_2, 3, https://rtvelivestream.akamaized.net/la2_dvr.m3u8, 6, http://www.rtve.es/directo/la-2/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Antena3.sp" group-title="Disponible",Antena 3
+https://directo.atresmedia.com/1593674097_e62c63ee91e633194f855622d3cea8230df7ea0d/antena3/master.m3u8, 6, antena_3, 1, antena_3, 2, antena3, 3, , 0, http://www.atresplayer.com/directos/television/antena3/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Cuatro.sp" group-title="Disponible",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8, 6, cuatro, 1, cuatro, 2, cuatro, 3, , 0, https://www.mitele.es/directo/cuatro, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Telecinco.sp" group-title="Disponible",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8, 6, telecinco, 1, telecinco, 2, telecinco, 3, , 0, https://www.mitele.es/directo/telecinco, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="Disponible",La Sexta
+https://pull2c-i.akamaized.net/lasexta/master.m3u8, 6, la_sexta, 1, la_sexta, 2, lasexta, 3, , 0, http://www.atresplayer.com/directos/television/lasexta/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Disponible",24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8, 6, https://rtvelivestream.akamaized.net/24h_dvr.m3u8, 6, , 0, , 0, , 0, http://www.rtve.es/directo/canal-24h/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="Neox.sp" group-title="Disponible",Neox
+https://livestartover.atresmedia.com/geoneox/master.m3u8, 6, neox, 1, neox, 2, neox, 3, , 0, http://www.atresplayer.com/directos/television, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Nova.sp" group-title="Disponible",Nova
+https://livestartover.atresmedia.com/geonova/master.m3u8, 6, nova, 1, nova, 2, neox, 3, , 0, http://www.atresplayer.com/directos/television, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="Disponible",#0
+0, 2, 0, 1, plus1, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Dark.es" group-title="Disponible",Dark
+dark, 1, dark, 2, dark, 3, , 0, , 0, , 0, 1, 0, 0, 0, 1, 1
+#EXTINF:0 tvg-id="Sundance.es" group-title="Disponible",Sundance
+sundance, 2, sundance, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Fox.sp" group-title="Disponible",Fox
+fox, 1, fox, 2, fox, 3, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FoxLife.sp" group-title="Disponible",Fox Life
+fox_life, 1, fox_life, 2, foxlife, 3, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Disponible",Fox Action
+fox_acction, 1, fox_acction, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Disponible",Fox Comedy
+fox_comedy, 1, fox_comedy, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Disponible",Fox Movies
+fox_movie, 1, fox_movie, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="Disponible",Fox Series
+fox_serie, 1, fox_serie, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FoxFamilyW.mx" group-title="Disponible",Fox Family
+fox_family, 1, fox_family, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Space.br" group-title="Disponible",Space
+space, 1, space, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="FX.uk" group-title="Disponible",FX
+fx, 1, fx, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Disponible",HBO
+hbo, 1, hbo, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Disponible",HBO 2
+hbo2, 1, hbo2, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="TNT.sp" group-title="Disponible",TNT
+tnt, 2, tnt, 1, tnt, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Scifi.sp" group-title="Disponible",SYFY
+syfy, 1, syfy, 2, syfy, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Ten.es" group-title="Disponible",Ten
+ten, 1, ten, 2, ten_1, 3, , 0, , 0, http://tentv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="DKISS.es" group-title="Disponible",DKISS
+dkiss, 1, dkiss, 2, dkiss_1, 3, , 0, , 0, http://www.dkiss.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Mega.es" group-title="Disponible",Mega
+https://livestartover.atresmedia.com/geomega/master.m3u8, 6, mega, 1, mega, 2, mega, 3, , 0, http://www.atresplayer.com/directos/television/mega/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Energy.es" group-title="Disponible",Energy
+energy, 2, energy, 1, energy, 3, , 0, , 0, https://www.energytv.es/en-directo/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Disponible",BEMAD
+be_mad, 1, be_mad, 2, bemad, 3, , 0, , 0, https://www.bemad.es/endirecto/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Divinity.es" group-title="Disponible",Divinity
+divinity, 2, divinity, 1, divinity, 3, , 0, , 0, https://www.divinity.es/endirecto/, 1, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="FDF.sp" group-title="Series",Factoría de Ficción
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8, 6, fdf, 1, fdf, 2, fdf, 3, , 0, https://verlatvonline.com, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Series",Telemundo
+telemundo, 2, telemundo, 1,
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="Series",Movistar Series
+movistar_series, 2, movistar_series, 1, plusseries, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Series",M. Seriesmanía
+movistar_seriesmania, 1, movistar_seriesmania, 2, seriesmania, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ComedyCentral.sp" group-title="Series",Comedy Central
+comedy_central, 2, comedy_central, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="Trece.es" group-title="Autonomico",Trece
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://trecetv.es/directo, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="Viajar.es" group-title="Autonomico",Viajar
+viajar, 1, viajar, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="RMTV.es" group-title="Autonomico",7RM
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8, 6, http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8, 6, , 0, , 0, , 0, http://webtv.7tvregiondemurcia.es/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="Telemadridsat.es" group-title="Autonomico",TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8, 6, , 0, , 0, , 0, , 0, http://www.telemadrid.es/emision-en-directo, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="LaOtra.es" group-title="Autonomico",La Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8, 6, , 0, , 0, , 0, , 0, http://www.telemadrid.es/emision-en-directo-laotra, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Autonomico",Navarra TV
+https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.natv.es/Directo, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:0 tvg-id="CanalParlamento.es" group-title="Autonomico",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8, 6, http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8, 6, , 0, , 0, , 0, http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:0 tvg-id="CyL7.es" group-title="Autonomico",CyL 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.rtvcyl.es/DirectoCylTV, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Autonomico",7 Valencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/chunklist_w1439718145.m3u8, 6,
+#EXTINF:0 tvg-id="ext" group-title="Autonomico",LevanteTV
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/media_w1648029392_92746.m3u8, 6, , 0, , 0, , 0, , 0, http://www.levantetv.es/default.jsp, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:0 tvg-id="8Madrid.sp" group-title="Autonomico",8tv
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.8tv.cat/directe/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="TV3cat.sp" group-title="Autonomico",TV3 Cat
+https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.ccma.cat/tv3/directe/tv3/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="Canal33.es" group-title="Autonomico",Canal 33
+https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.ccma.cat/tv3/directe/super3/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Autonomico",Aragón TV Int
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8, 6, , 0, , 0, , 0, , 0, http://www.aragontelevision.es/directo, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="ETBSat.es" group-title="Autonomico",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8, 6, , 0, , 0, , 0, , 0, http://www.eitb.eus/es/television/etb-sat/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="Telesur.es" group-title="Autonomico",Canal Sur
+, 0, , 0, , 0, , 0, , 0, http://www.canalsur.es/tv_directo-1193.html, 1, 2, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="TVGalicia.sp" group-title="Autonomico",TV Galicia
+http://europa-crtvg.flumotion.com/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.crtvg.es/tvg/tvg-en-directo, 1, 2, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Disney +
+disney_, 2, disney_, 1, estrella, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="BabyTV.sp" group-title="Infantil",Baby TV
+baby_tv, 1, baby_tv, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="DisneyChannel.sp" group-title="Infantil",Disney Channel
+disney_channel, 1, disney_channel, 2, disneyc, 3, , 0, , 0, http://tv.disney.es/disney-channel, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Boing.sp" group-title="Infantil",Boing
+boing, 1, boing, 2, , 0, , 0, , 0, https://www.mitele.es/directo/boing, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Infantil",A3series
+atreseries, 1, atreseries, 2, atreseries, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="NickJunior.sp" group-title="Infantil",NICK JR
+nick_jr, 1, nick_jr, 2, , 0, , 0, , 0, http://www.nickelodeon.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Nickelodeon.sp" group-title="Infantil",Nickelodeon
+nickelodeon, 1, nickelodeon, 2, , 0, , 0, , 0, http://www.nickelodeon.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Infantil",Boomerang
+http://158.69.116.209:25500/live/df800812e95f490888e7dda8f4c4efae/9be63f66f31a47629b2799f614e2113c/26.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantil",Tooncast
+http://158.69.116.209:25500/live/7f281c3745e34ee2801f81f6c51615ab/498c0c78c3c64ae98e7c3434c78871c9/21.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+
+#EXTINF:0 tvg-id="ClanTVE.sp" group-title="Infantíl",Clan TVE
+clan, 1, clan, 2, clan, 3, https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8, 6, , 0, http://www.rtve.es/infantil/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="DisneyJr.sp" group-title="Infantíl",Disney Junior
+disney_junior, 1, disney_junior, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Panda.es" group-title="Infantíl",Canal Panda
+canal_panda, 1, canal_panda, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Documentales",Telemundo
+telemundo, 1, telemundo, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="Documentales",Crimen + Investigación
+crimen_investigacion, 1, crimen_investigacion, 2, ci, 3, , 0, , 0, http://citv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Blaze.es" group-title="Documentales",Blaze
+blaze, 2, blaze, 1, blaze, 3, , 0, , 0, http://aetv.es/, 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="DiscoveryMAX.es" group-title="Documentales",Discovery Max
+dmax, 1, dmax, 2, dmax, 3, , 0, , 0, http://www.dmax.marca.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Documentales",Discovery
+discovery_channel, 2, discovery_channel, 1, discovery, 3, , 0, , 0, https://www.discoverychannel.es/video, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Documentales",Discovery Science
+discovery_sciency, 2, discovery_sciency, 1, , 0, , 0, , 0, https://www.discoverychannel.es/video, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Historia.sp" group-title="Documentales",Historia
+historia, 1, historia, 2, historia, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="NationalGeographic.sp" group-title="Documentales",National Geographic
+national_geographic_channel, 2, national_geographic_channel, 1, nationalgeo, 3, , 0, , 0, https://www.nationalgeographic.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="NatGeoWild.sp" group-title="Documentales",Nat Geo Wild
+national_geographic_wild, 1, national_geographic_wild, 2, nationalwild, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Odisea.sp" group-title="Documentales",Odisea
+odisea, 2, odisea, 1, odisea, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Decasa.sp" group-title="Documentales",Canal Decasa
+decasa, 1, decasa, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="Paramount.es" group-title="Cine",Paramount Channel
+http://paramount.live.flumotion.com/live/chunks.m3u8, 6, paramount_channel, 2, paramount_channel, 1, paramountchannel, 3, , 0, http://www.paramountchannel.es/programacion/en-directo, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="AXNhd.sp" group-title="Cine",AXN
+axn, 2, axn, 1, axn, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Cine",AXN White
+axn_white, 1, axn_white, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Hollywood.sp" group-title="Cine",Hollywood
+hollywood, 1, hollywood, 2, hollywood, 3, , 0, , 0, http://canalhollywood.es, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="AMC.es" group-title="Cine",AMC
+amc, 2, amc, 1, amc, 3, , 0, , 0, http://www.amctv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="TCM.sp" group-title="Cine",TCM
+tcm, 2, tcm, 1, tcm, 3, , 0, , 0, http://www.canaltcm.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Calle13.sp" group-title="Cine",Calle 13
+calle_13, 1, calle_13, 2, calle13, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Somos.sp" group-title="Cine",Somos
+somos, 2, somos, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Cine",M. Drama
+movistar_drama, 1, movistar_drama, 2, drama, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="Cine",Movistar Estrenos
+movistar_estrenos, 2, movistar_estrenos, 1, plusestrenos, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Cine",M.CineDoc&Roll
+movistar_cinedocroll, 1, movistar_cinedocroll, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="Cine",Movistar Comedia
+movistar_comedia, 2, movistar_comedia, 1, comedia, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="Cine",Movistar Acción
+movistar_accion, 1, movistar_accion, 2, plusaccion, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Cine",Movistar Cine N
+movistar_cine_espanol, 2, movistar_cine_espanol, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Cine",Cinemax
+cinemax, 3, cinemax, 1, cinemax, 2, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Cine",Warner TV
+warner_tv, 2, warner_tv, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="CinemaxActionMaxHDEast.us" group-title="Cine",Cinemax East
+, 0, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="Taquilla3.es" group-title="Cine",Alquiler  3
+, 0, , 0, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:0 tvg-id="Taquilla4.es" group-title="Cine",Alquiler  4
+, 0, , 0, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:0 tvg-id="Taquilla5.es" group-title="Cine",Alquiler  5
+, 0, , 0, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:0 tvg-id="Taquilla6.es" group-title="Cine",Alquiler  6
+, 0, , 0, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:0 tvg-id="XTRM.es" group-title="Cine",Xtrm
+xtrm, 1, xtrm, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Cine",COSMO
+cosmo, 2, cosmo, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="MTVEsp.sp" group-title="Musica",MTV
+mtv, 1, mtv, 2, mtv, 3, , 0, , 0, http://www.mtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="Musica",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8, 6, , 0, , 0, , 0, , 0, http://www.hittv.es/, 1, 2, 0, 0, 0, 0, 0
+
+#EXTINF:0 tvg-id="Cocina.sp" group-title="Cocina",Canal Cocina
+canal_cocina, 2, canal_cocina, 1, cocina, 3, , 0, , 0, http://canalcocina.es/, 1, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",La Liga TV
+la_liga_tv, 2, la_liga_tv, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="Esport3.es" group-title="Deportes",Esport 3
+https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist.m3u8, 6, , 0, , 0, , 0, , 0, http://www.ccma.cat/tv3/directe/esport3/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sport
+win_sport, 2, win_sport, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sport
+fox_sport, 2, fox_sport, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="Deportes",Fox Sport 2
+fox_sport_1, 2, fox_sport_1, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Deportes",ESPN
+espn, 2, espn_2, 2, espn_3, 2, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="BetisTV.es" group-title="Deportes",Betis TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8?ks=NjNmMDk1ODQyNzEzNWNkMzYyZmM5ZWFjYTdhYTc2YmFkNWQyM2Y2YXwzMDAxMzE0OzMwMDEzMTQ7MTU3ODI3MDc4MDswOzE1NzgxODQzODA7O3N2aWV3OjBfd3pja3c4NWMsc2V0cm9sZTpQTEFZQkFDS19CQVNFX1JPTEUsd2lkZ2V0OjE7Ow==, 6, , 0, , 0, , 0, , 0, http://www.realbetisbalompie.es/es/rtvbetis/, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:0 tvg-id="Golf.sp" group-title="Deportes",Movistar Golf
+movistar_golf, 2, movistar_golf, 1, golf, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TYC Sport
+tyc_sport, 1, tyc_sport, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Deportes",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8, 6, real_madrid_tv, 1, real_madrid_tv, 2, https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8, 6, , 0, https://www.realmadrid.com/real-madrid-tv, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Deportes",Eurosport 1
+eurosportt_2, 2, eurosport1, 3, eurosportt_2, 1, , 0, , 0, https://www.eurosport.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="Deportes",Eurosport 2
+eurosport_1, 2, eurosport2, 3, eurosport_1, 1, , 0, , 0, https://www.eurosport.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Teledeporte.sp" group-title="Deportes",Teledeporte
+teledeporte, 1, teledeporte, 2, teledeporte, 3, https://rtvelivestream.akamaized.net/tdp_dvr.m3u8, 6, , 0, http://www.rtve.es/directo/teledeporte/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="Deportes",Caza y Pesca
+caza_y_pesca, 2, caza_y_pesca, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="Deportes",Iberalia TV
+iberalia, 1, iberalia, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Direct Sport
+direct_sport, 2, direct_sport, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="Deportes",Movistar Fórmula 1
+movistar_formula_1, 2, movistar_formula_1, 1, formula1, 3, https://fdaily.dailysportlist.xyz/20/20.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Deportes",Toros
+toros_tv, 2, toros_tv, 1, toros, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="GOL.es" group-title="Deportes",GOL
+gol_tv, 2, gol_tv, 1, goltv, 3, , 0, , 0, https://www.goltelevision.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="Deportes",Movistar Deportes 1
+movistar_deportes, 2, movistar_deportes, 1, plusdeportes, 3, https://fdaily.dailysportlist.xyz/16/16.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="Vamos.es" group-title="Deportes",#Vamos
+vamos, 2, vamos, 3, vamos, 1, https://fdaily.dailysportlist.xyz/15/15.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",UFC
+ufc, 1, ufc, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein N
+bein_n, 1, bein_n, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="MLigaCampeones.es" group-title="Deportes",M. Liga de Campeones
+movistar_liga_de_campeones, 2, movistar_liga_de_campeones, 1, verliga5, 3, https://fdaily.dailysportlist.xyz/8/8.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="MovistarLDC2.es" group-title="Deportes",M. Liga de Campeones 2
+movistar_liga_de_campeones_1, 1, movistar_liga_de_campeones_1, 2, movistar_liga_de_campeones_1, 2, , 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. Liga de Campeones 3
+movistar_liga_de_campeones_2, 4, movistar_liga_de_campeones_2, 3, movistar_liga_de_campeones_2, 5, , 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. Liga de Campeones 4
+movistar_liga_de_campeones_7, 3, movistar_liga_de_campeones_7, 4, movistar_liga_de_campeones_7, 5, https://fdaily.dailysportlist.xyz/13/13.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. Liga de Campeones 5
+movistar_liga_de_campeones_5, 5, movistar_liga_de_campeones_5, 4, movistar_liga_de_campeones_5, 3, , 0, , 0, , 0, 0, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. Liga de Campeones 6
+movistar_liga_de_campeones_3, 5, movistar_liga_de_campeones_3, 3, movistar_liga_de_campeones_3, 4, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Deportes",Barça TV
+barsa_tv, 1, barsa_tv, 2, barca, 3, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="Deportes",M. LaLiga
+movistar_laliga, 2, movistar_laliga, 1, verliga, 3, https://fdaily.dailysportlist.xyz/1/1.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="M.LaLiga1.es" group-title="Deportes",M. LaLiga 1
+movistar_laliga_1, 1, movistar_laliga_1, 2, laliga1, 3, https://fdaily.dailysportlist.xyz/13/13.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Online solo en eventos",DAZN
+dazn, 2, dazn, 1, dazn, 1, https://fdaily.dailysportlist.xyz/22/22.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Online solo en eventos",DAZN 1
+dazn_1, 1, dazn_1, 2, dazn_1, 1, https://fdaily.dailysportlist.xyz/epl1/1.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="ext" group-title="Online solo en eventos",DAZN 2
+dazn_2, 2, dazn_2, 1, dazn_2, 1, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="ext" group-title="Online solo en eventos",DAZN 3
+dazn_3, 1, dazn_3, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="ext" group-title="Online solo en eventos",DAZN 4
+dazn_4, 1, dazn_4, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="ext" group-title="Online solo en eventos",DAZN 5
+dazn_5, 1, dazn_5, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="ext" group-title="Online solo en eventos",DAZN 6
+dazn_6, 1, dazn_6, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="Online solo en eventos",M. LaLiga 2
+movistar_liga_2, 2, movistar_liga_2, 1, , 0, https://fdaily.dailysportlist.xyz/12/12.m3u8, 6, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="Online solo en eventos",M. LaLiga 3
+movistar_liga_3, 2, movistar_liga_3, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="Online solo en eventos",M. LaLiga 4
+movistar_laliga_4, 5, movistar_laliga_4, 4, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 1
+#EXTINF:0 tvg-id="M.LaLiga5.es" group-title="Online solo en eventos",M. LaLiga 5
+movistar_laliga_5, 4, movistar_laliga_5, 5, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 1
+
+#EXTINF:0 tvg-id="PlayboyTV.es" group-title="Adultos",Playboy TV
+playboy, 1, playboy, 2, playboy, 3, , 0, , 0, , 0, 1, 0, 0, 0, 1, 1
+#EXTINF:0 tvg-id="Hot.pt" group-title="Adultos",Hot
+hot, 2, hot, 1, hot, 3, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Adultos",Dorcel
+dorcell, 1, dorcell, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="hustler-blue" group-title="Adultos",Blue Hustler
+blue_hustler, 2, blue_hustler, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Adultos",Redlight
+redlight, 1, redlight, 2, redlight, 3, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="PentHouse.ero" group-title="Adultos",Penthouse
+penthouse, 2, penthouse, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="Penthouse1.dk" group-title="Adultos",Penthouse 1
+dusk, 1, dusk, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="Hustler.br" group-title="Adultos",Hustler
+hustler, 2, hustler, 1, hustler, 3, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="Adultos",Brazzers
+brazzers, 1, brazzers, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Red XXX
+alba_xxx, 2, alba_xxx, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="Adultos",Venus
+venus, 1, venus, 2, venus, 3, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="PrivateTV.ero" group-title="Adultos",Private
+private, 1, private, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Centoxcento
+http://145.239.0.5:25500/live/26df11fd00ad46c49a32424ecaea25f1/3d11a171c0d149f2a9265133cf0e5e79/47.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",ShotTV
+http://145.239.0.5:25500/live/7241e23c349d44dc8de1abd1077dadb3/f3134f8aedec4f049037402f7bbd00e3/53.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Erox
+http://145.239.0.5:25500/live/476202b6ae3e4112827ed02ac141da40/d2193316cc3c468899c7177141cc614f/54.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Fap 2 TV
+http://145.239.0.5:25500/live/63a49fe60c7447e29ac85b5f0381f588/85f757b8040f48b4a629a9d0cd6e64b5/33.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Fap Anal TV
+http://145.239.0.5:25500/live/ca9fa6a7286241b988d9e061562cd36f/964f12563c854dc28a2dbc34c36796f2/37.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Fap Compilation TV
+http://145.239.0.5:25500/live/eb7cc516130a4e95b74139b0033ff4db/ec14c8dbf1ad40459c23dafb0b17c556/38.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Fap Lesbian TV
+http://145.239.0.5:25500/live/f610a20c76e64cefa5231072e4e72ab5/39a8807aedb641b689841217d4bc8655/35.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Fap Parody TV
+http://145.239.0.5:25500/live/0b896ac0294a47659c1ce3ba9755ffe0/3fb4f82b381c407fa7606c59683f6727/34.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Fap Tenns TV
+http://145.239.0.5:25500/live/e72e00974fad491b9d12a3e9f3017b93/026a304a8b6a46e3aec74757f9050f2f/36.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="nu-art" group-title="Adultos",Nuart TV
+http://145.239.0.5:25500/live/deef91b6409e41d585eaa1ca174e38cc/2baf901e59854cc78d46421fd34005c5/48.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Ox-ax TV
+http://145.239.0.5:25500/live/7d2c835194bf4a9dab73a538079b4f09/a43428686cd946feb445a82c16d734b2/52.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="PassionXXX.ero" group-title="Adultos",Passion xxx
+http://145.239.0.5:25500/live/17a2953e27624543bf1e6a2584319289/f2be07defd574c26a2b56e415f62076d/46.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="PrivateTV.ero" group-title="Adultos",Private TV
+http://145.239.0.5:25500/live/d863f4717ea247ac9baf64e079b26922/cb97d6e5b93b45e69785fbadf7bda67a/45.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Rusnoch TV
+http://145.239.0.5:25500/live/001ca81a478a4bb4ac779849a3593ec4/4d69b2d57b55484bb74ae43525764c20/51.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Big Ass
+http://cdn.adultiptv.net/bigass.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Fetish
+http://cdn.adultiptv.net/fetish.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Interracial
+http://cdn.adultiptv.net/interracial.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Latina
+http://cdn.adultiptv.net/latina.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Milf
+http://cdn.adultiptv.net/milf.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Pov
+http://cdn.adultiptv.net/pov.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Russian
+http://cdn.adultiptv.net/russian.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Teen
+http://cdn.adultiptv.net/teen.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vip Threesome
+http://cdn.adultiptv.net/threesome.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Vivid Reed
+http://145.239.0.5:25500/live/f8844dcf8f684e33a9b48d44e968bf44/dfaee06d10274b0e9055ecea095d99dd/50.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Waayh TV
+http://145.239.0.5:25500/live/c0c8ed3b5a9d40a5b207f40860f8f4d9/499f57e508844e5d9baa02464836430d/55.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Bang Bross
+http://145.239.0.5:25500/live/5def2a6988f147d3aabcf597bd6c4a2a/d3f31d56a38e44f0b918c8da50fd0cee/92.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="DuskTV.ero" group-title="Adultos",Dusk
+http://145.239.0.5:25500/live/9d7ffad32fd34ab0b9e016a0ea6ddde0/b413be64a6204eaeb6c27f9e30b0b001/110.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="EvilAngel.ero" group-title="Adultos",Evil Angel
+http://145.239.0.5:25500/live/e15e8483852941b094349a5ae22f1246/362bf2ca337d472ab155441e4e901939/91.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="Hustler.br" group-title="Adultos",Hustler
+http://145.239.0.5:25500/live/f1deeeaf2a7741e2b375b4788bc4a29d/642ba98ffd284f75ab82dba3cb2f2708/84.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Ipz
+http://145.239.0.5:25500/live/d365693791a647eeae1cbc5c5c9610bb/929abd68d254417f82fb6af0481e031d/93.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Jav 1 U
+http://145.239.0.5:25500/live/8642dae2cac1467e9a6867fc35016476/b885dced4c8d41a18f3e3bd5384c99b0/94.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Jav 2 U
+http://145.239.0.5:25500/live/c73f0a5ebe094b07a2c875cd6aa3561d/7d338625baaf492f971ea18a1de9a26d/95.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Jav 3 U
+http://145.239.0.5:25500/live/72eb596331bf4c4fa2ca82bf897a8e29/ca708c5ab48a41bc809f790fc6b4e988/96.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Legal Porno
+http://145.239.0.5:25500/live/165af3904a26432897bbc78af2862aab/655476a2827d4e66b5fb572c7951efc4/100.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Naughty America
+http://145.239.0.5:25500/live/fc126cb1082842b8adc8bed7703ff5d3/1bf9ad41b6c14efcbdde66d754e69a5c/86.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Tiny4k
+http://145.239.0.5:25500/live/d93552f8360945da8cf09502fbb00a7c/2a00860f95664f0a91bfcc13e888091d/90.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Tokyo Hot
+http://145.239.0.5:25500/live/c6ad6695af5b4454984db50b49b0ab04/88bd9c37af374eaa8ed62c068d904a28/97.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Tushy
+http://145.239.0.5:25500/live/376095df058c4abfb628d918957df288/178e223d40364a2c9d21a69fc1a698d3/99.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Wanz
+http://145.239.0.5:25500/live/e57c8fa318314e0ebdf8da44c827743e/d8e8a517eb834e3e86b21bcad7599c81/98.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",X Art
+http://145.239.0.5:25500/live/a8d0315ee212451da898520fad80ea34/f469ab9d349348c8878a8c22210e55ac/85.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+#EXTINF:0 tvg-id="ext" group-title="Adultos",Xtsy
+http://145.239.0.5:25500/live/03e521d899484cdab70ede431dd923c1/2e0c55cbd39f4820bce004f98e3745cb/89.m3u8, 6, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 1, 0
+
