@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="LA1.es" group-title="Disponible",LA 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8, 6, la_1, 1, la_1, 2, tve1, 3, https://rtvelivestream.akamaized.net/la1_dvr.m3u8, 6, http://www.rtve.es/directo/la-1/, 1, 1, 0, 0, 0, 0, 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:0 tvg-id="LA2.es" group-title="Disponible",LA 2
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8, 6, la_2, 1, la_2, 2, la2_2, 3, https://rtvelivestream.akamaized.net/la2_dvr.m3u8, 6, http://www.rtve.es/directo/la-2/, 1, 1, 0, 0, 0, 0, 1
 #EXTINF:0 tvg-id="Antena3.sp" group-title="Disponible",Antena 3
